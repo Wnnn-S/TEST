@@ -1,0 +1,6 @@
+write rx_gain 30
+write tx_gain 80
+write mcc 460
+write mnc 00
+write band 40
+write dl_earfcn 38950
